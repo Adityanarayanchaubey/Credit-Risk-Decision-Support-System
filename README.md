@@ -132,7 +132,7 @@ The project follows a complete end-to-end machine learning pipeline:
 - Hyperparameter Tuning using GridSearchCV
 - Cross Validation
 - Model Evaluation
-- Model Deployment using Streamlit
+
 
 ---
 
