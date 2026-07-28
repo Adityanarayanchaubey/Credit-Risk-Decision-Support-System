@@ -1,5 +1,12 @@
 # 🏦 Loan Default Prediction System
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://adityanarayanchaubey-credit-risk-decision-support-sy-app-nkhykr.streamlit.app/)
+
+### 🌐 Live Application
+**Try the application here:**  
+👉 https://adityanarayanchaubey-credit-risk-decision-support-sy-app-nkhykr.streamlit.app/
+
+---
 An end-to-end Machine Learning project that predicts the likelihood of a customer defaulting on a loan based on their financial and demographic information.
 
 This project was built to understand the complete machine learning workflow—from collecting and cleaning data to feature engineering, model training, evaluation, business reporting with Power BI, and finally deploying the model as an interactive Streamlit web application.
